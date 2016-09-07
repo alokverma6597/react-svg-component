@@ -1,0 +1,51 @@
+{
+  "name": "react-svg-component",
+  "version": "1.0",
+  "description": "A react component that display SVG on page with specfic width ,height & Custom Color:",
+  "main": "lib/components/svgcomponent.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm start",
+    "prepublish": "node_modules/.bin/babel src --out-dir lib",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alokverma6597/react-svg-component"
+  },
+  "keywords": [
+    "react-component",
+    "react-svg-component"
+    "svg-component",
+    "react-npm-svg",
+    "react-npm-svg-component",
+    "react-svg",
+    "svg-react",
+    "svg-react",
+    "react-component"
+  ],
+  "author": "Alok Verma",
+  "homepage": "https://github.com/alokverma6597/react-svg-component.git#REQUIREMENTS",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.10.1",
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-1": "^6.5.0",
+    "browser-sync": "^2.13.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-hot-loader": "^1.3.0",
+    "react-svgdom-loader": "^3.0.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-dev-server": "^1.14.1",
+    "webpack-hot-middleware": "^2.12.1",
+    "webpack-notifier": "^1.3.0"
+  }
+}
