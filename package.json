@@ -1,6 +1,6 @@
 {
   "name": "react-svg-component",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A react component that display SVG on page with specfic width ,height & Custom Color:",
   "main": "lib/components/svgcomponent.js",
   "directories": {
