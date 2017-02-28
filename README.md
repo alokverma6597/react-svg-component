@@ -3,7 +3,7 @@ react-svg-component
 
 A React component that display SVG on webpage with custom specification like pass the Width,Height,PathString & Color of SVG as props and render the SVG.
 
-
+![Alok](https://img.shields.io/badge/byALoK-reactComponent-blue.svg)
 
 Overview
 --------
